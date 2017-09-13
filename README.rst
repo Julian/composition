@@ -4,7 +4,7 @@ composition
 
 Hi mature software developer!
 
-You have decided inheritance isn't for you?
+You have decided inheritance isn't your cup of tea?
 
 Well have we got the thing for you!
 
@@ -20,13 +20,19 @@ This module does one thing:
     class ThisWillGoBoom(Superclass):
         pass
 
+
+Enjoy. This is mature software, put it in production, and let it drive your
+car.
+
 Installation
 ------------
 
     $ pip install composition
 
-of course.
+of course. Python 3.6+ only though, sorry kids.
 
 
-Enjoy. This is mature software, put it in production, and let it drive your
-car.
+Wait Wat?
+---------
+
+https://en.wikipedia.org/wiki/Composition_over_inheritance
