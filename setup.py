@@ -30,6 +30,6 @@ setup(
 
     install_requires=["forbiddenfruit"],
 
-    version="8675309.0.0",
+    version="86753.0.9",
     classifiers=classifiers,
 )
