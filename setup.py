@@ -28,8 +28,8 @@ setup(
 
     py_modules=["composition"],
 
-    install_requires=["forbiddenfruit"],
+    install_requires=["forbiddenfruit!=0.1.3"],
 
-    version="86753.0.9",
+    version="867530.9",
     classifiers=classifiers,
 )
