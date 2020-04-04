@@ -2,6 +2,25 @@
 composition
 ===========
 
+|PyPI| |Pythons| |CI| |Codecov|
+
+.. |PyPI| image:: https://img.shields.io/pypi/v/composition.svg
+  :alt: PyPI version
+  :target: https://pypi.org/project/composition/
+
+.. |Pythons| image:: https://img.shields.io/pypi/pyversions/composition.svg
+  :alt: Supported Python versions
+  :target: https://pypi.org/project/composition/
+
+.. |CI| image:: https://github.com/Julian/composition/workflows/CI/badge.svg
+  :alt: Build status
+  :target: https://github.com/Julian/composition/actions?query=workflow%3ACI
+
+.. |Codecov| image:: https://codecov.io/gh/Julian/composition/branch/master/graph/badge.svg
+  :alt: Codecov Code coverage
+  :target: https://codecov.io/gh/Julian/composition
+
+
 Hi mature software developer!
 
 You have decided inheritance isn't your cup of tea?
